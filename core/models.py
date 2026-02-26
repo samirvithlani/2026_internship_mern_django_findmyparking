@@ -44,6 +44,7 @@ class User(AbstractBaseUser):
     updated_at = models.DateTimeField(auto_now=True)
     
     
+    
     objects = UserManager()
 
     #override userName filed

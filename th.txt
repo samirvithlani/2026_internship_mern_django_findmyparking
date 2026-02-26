@@ -62,3 +62,16 @@ user_dashboard.html
 urls.py parking.urls.py
 {{request.user}}
 
+
+
+cutome decorators: role required
+
+templtes -->base.html --> dynamic user accroding side bar  if =-->
+load static --> setting.py -->
+extends ..
+
+task:
+model firstname,lastnamegendr,mobile
+
+gender radio ,, widget
+
