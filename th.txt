@@ -75,3 +75,9 @@ model firstname,lastnamegendr,mobile
 
 gender radio ,, widget
 
+mail send...
+gmail -> 2step verification enable
+
+
+design page :
+attechment:
