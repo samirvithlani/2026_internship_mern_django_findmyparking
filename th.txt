@@ -81,3 +81,12 @@ gmail -> 2step verification enable
 
 design page :
 attechment:
+
+<img src ={{parkings.parkingImage.url}}>
+
+---------------------------------------------
+
+login signup home logout
+
+models : CRUD : dessign ..
+
