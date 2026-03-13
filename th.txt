@@ -90,3 +90,6 @@ login signup home logout
 
 models : CRUD : dessign ..
 
+
+booknow ---> views.. --> amount --> bookin.html --> paynow..
+

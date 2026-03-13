@@ -136,3 +136,6 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'add your email here'
 EMAIL_HOST_PASSWORD = 'add your pasword here' #app password
+
+RAZORPAY_KEY_ID="enter"
+RATZORPAY_KEY_SECRET="entrr"
